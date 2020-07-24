@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SudokuSolver_react/static/css/main.8e7daf48.chunk.css",
+    "main.js": "/SudokuSolver_react/static/js/main.aaafe182.chunk.js",
+    "main.js.map": "/SudokuSolver_react/static/js/main.aaafe182.chunk.js.map",
+    "runtime-main.js": "/SudokuSolver_react/static/js/runtime-main.674e95c4.js",
+    "runtime-main.js.map": "/SudokuSolver_react/static/js/runtime-main.674e95c4.js.map",
+    "static/js/2.5c38978b.chunk.js": "/SudokuSolver_react/static/js/2.5c38978b.chunk.js",
+    "static/js/2.5c38978b.chunk.js.map": "/SudokuSolver_react/static/js/2.5c38978b.chunk.js.map",
+    "index.html": "/SudokuSolver_react/index.html",
+    "precache-manifest.9ca7d9bbc65a479ffcbb62f30d5066e9.js": "/SudokuSolver_react/precache-manifest.9ca7d9bbc65a479ffcbb62f30d5066e9.js",
+    "service-worker.js": "/SudokuSolver_react/service-worker.js",
+    "static/css/main.8e7daf48.chunk.css.map": "/SudokuSolver_react/static/css/main.8e7daf48.chunk.css.map",
+    "static/js/2.5c38978b.chunk.js.LICENSE.txt": "/SudokuSolver_react/static/js/2.5c38978b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.674e95c4.js",
+    "static/js/2.5c38978b.chunk.js",
+    "static/css/main.8e7daf48.chunk.css",
+    "static/js/main.aaafe182.chunk.js"
+  ]
+}
